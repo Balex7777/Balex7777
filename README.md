@@ -1,22 +1,32 @@
 ## Hi there 👋
-I'm Morev Aleksey
 
-I became interested in programming in 2017, I enrolled in the School of Programmers, where I studied for 6 years. At this school, I gained a solid foundation in programming and also completed an additional course in web development. Currently, I am pursuing a degree in **Software Engineering in MIREA — Russian Technological University**
+Интересуюсь программированием с 2017 года. Сейчас обучаюсь в **Российском Технологическом Университете МИРЭА по направлению "Программная инженерия"**.
 
-I chose **Frontend development** because I enjoy creating user-friendly and visually appealing interfaces.
+Я выбрал **Frontent разработку**, потому что мне нравиться создавать удобные и привлекательные интерфейсы, чтобы радовать глаза пользователя)
 
-:zap:Now I'm...<br>- learning TypeScript and React<br>- taking a course "frontend-developer" in Yandex practicum<br>- taking part in a training session "algorithms 6.0" from Yandex
+:zap:Я участвовал в:<br>
+- мероприятии "алгоритмы 6.0" от Яндекса (Топ-50)
+- хакатоне Hack&Change по треку от МТС 
 
-## 💻 Tech Stack:
+:zap:Сейчас я:<br>
+- учу TypeScript и React<br>
+- Прохожу ассоциативную подготовку по направлению "frontend-разработчик" на Яндекс Практикум<br>
+
+## 💻 Стек технологий:
 ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) 
 ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white) 
 ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) 
 ![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white) 
-![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB) 
+![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)
+![Vue.js](https://img.shields.io/badge/vue.js-%2335495e.svg?style=for-the-badge&logo=vuedotjs&logoColor=%234FC08D) 
+![Babel](https://img.shields.io/badge/Babel-F9DC3e?style=for-the-badge&logo=babel&logoColor=black)
+![Prettier](https://img.shields.io/badge/prettier-%23F7B93E.svg?style=for-the-badge&logo=prettier&logoColor=black) 
+![ESLint](https://img.shields.io/badge/ESLint-4B3263?style=for-the-badge&logo=eslint&logoColor=white)
+![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white) 
 ![Webpack](https://img.shields.io/badge/webpack-%238DD6F9.svg?style=for-the-badge&logo=webpack&logoColor=black) 
 ![Vite](https://img.shields.io/badge/vite-%23646CFF.svg?style=for-the-badge&logo=vite&logoColor=white)
-![NPM](https://img.shields.io/badge/NPM-%23CB3837.svg?style=for-the-badge&logo=npm&logoColor=white) 
-![Chart.js](https://img.shields.io/badge/chart.js-F5788D.svg?style=for-the-badge&logo=chart.js&logoColor=white) 
+![NPM](https://img.shields.io/badge/NPM-%23CB3837.svg?style=for-the-badge&logo=npm&logoColor=white)
+![Yarn](https://img.shields.io/badge/yarn-%232C8EBB.svg?style=for-the-badge&logo=yarn&logoColor=white) 
 ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white) 
 ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)
 ![GithubPages](https://img.shields.io/badge/github%20pages-121013?style=for-the-badge&logo=github&logoColor=white) 
