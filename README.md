@@ -1,19 +1,40 @@
-## Hi there 👋
+# Hi, I'm Aleksei Morev
 
-Интересуюсь программированием 7 лет. Сейчас обучаюсь в **Российском Технологическом Университете МИРЭА по направлению "Программная инженерия"**.
+Senior Frontend Developer with 6+ years of experience building scalable web applications with React and TypeScript.
 
-Я выбрал **Frontent разработку**, потому что + вайб
+I work on product features that affect real business metrics: conversion, GMV, performance, delivery speed, and developer efficiency. Over the years, I’ve worked on products used by millions of users at Yandex, Booking.com, and Tinkoff.
 
-:zap:Мои активности:<br>
-- тренировки по алгоритмам 6.0 от Яндекса (Топ-50)
-- хакатон Hack&Change по треку от МТС (4 место)
-- кейс-чемпионат Cup IT 2025
-- кейс-чемпионат Cup Russia 2025
-- Прошел ассоциативную подготовку по направлению "frontend-разработчик" на Яндекс Практикум<br>
+## 🧩 What I do
 
-:zap:Сейчас я являюсь младшим разработчиком интерфейсов в Яндекс Маркете
+- Build and scale frontend applications with React, TypeScript, and modern tooling
+- Design maintainable frontend architecture for large product teams
+- Improve product metrics through experiments, UX improvements, and performance work
+- Develop internal platform solutions, design systems, and testing infrastructure
+- Collaborate closely with backend engineers, designers, analysts, and product managers
 
-## 💻 Стек технологий:
+## 📈 Selected impact
+
+- Increased checkout completion rate from **62.21% to 67.78%**
+- Launched promo mechanics that improved sales and reduced operational costs
+- Built cart-sharing functionality with **66K daily sharers**
+- Improved E2E coverage from **59.3% to 88.5%**
+- Reduced release cycle in micro-frontend setup from **3 days to 1 day**
+- Optimized bundle size from **3.4MB to 1.9MB**
+- Built product features adopted by **180K+ users**
+- Improved payment flow for **1.3M+ users annually**
+
+## 💼 Experience
+
+- **Yandex** — Senior Frontend Developer
+- **Booking.com** — Frontend Web Developer
+- **Tinkoff** — Frontend Web Developer
+
+## 🎓 Education
+
+- **HSE University** — M.S. in Software Engineering
+- **MIREA** — B.S. in Software Engineering
+
+## 🛠️ Tech stack
 ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) 
 ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white) 
 ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) 
@@ -33,5 +54,8 @@
 ![GithubPages](https://img.shields.io/badge/github%20pages-121013?style=for-the-badge&logo=github&logoColor=white) 
 ![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white) 
 ![Ant-Design](https://img.shields.io/badge/-AntDesign-%230170FE?style=for-the-badge&logo=ant-design&logoColor=white) 
+
 ## 📊 GitHub Stats:
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=Balex7777&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact)<br>
+
+Open to strong engineering teams, product work, and frontend challenges where architecture and business impact both matter.
